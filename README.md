@@ -1,3 +1,5 @@
-# Emotion Detector
+# Repository for Final Project
 
-This project is an AI-based web application for detecting emotions from text using the Watson NLP library.
+# Final Project
+
+This project implements an AI-based Emotion Detection web application using Watson NLP.
